@@ -9,7 +9,7 @@
     --color-input: #333333;
     --color-bg-2: rgba(0, 0, 0, 0.4);
     --header-box-shadow: inset 10rem 10rem 24rem rgba(0, 0, 0, 0.5),
-      inset -10rem -10rem 24rem rgba(0, 0, 0, 0.5);
+    inset -10rem -10rem 24rem rgba(0, 0, 0, 0.5);
   }
   
   /* Box Sizing */
@@ -55,7 +55,7 @@
     color: white;
   }
   
-  /* Text Style ----------------------------------------- */
+  /* Text Style */
   
   .text-white-1 {
     color: white;
